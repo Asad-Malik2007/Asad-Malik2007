@@ -1,4 +1,5 @@
-‌<h1 align="center">Hi 👋, I'm Asad Malik</h1>
+‌<img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ26nRZlSRlczJKdr2-2kMjo6roRCBc2Upr-A&s">
+<h1 align="center">Hi 👋, I'm Asad Malik</h1>
 <h3 align="center">A passionate Frontend developer from Pakistan</h3>
 <img src="https://camo.githubusercontent.com/c50778302259b0f7ce93da47d3e77729929875c1992e689228af48b6589a8993/68747470733a2f2f696d6167652e6962622e636f2f6a456b6364642f66726f6e745f656e645f646576656c6f706572735f6f70656e696e67735f312e676966">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asad-malik" alt="asad-malik" /></a> </p>
